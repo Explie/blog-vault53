@@ -18,21 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Vault53 - Digital Forensics & Incident Response Blog
+email: tobias@vault53.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  In this blog I write about this and that from the DFIR world, 
+  whenever it suits me. In reference to the Fallout game series, 
+  this blog was named Vault53, which describes the current state of IT security very well.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "www.vault53.de" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: 
+github_username:  explie
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+timezone: Europe/Berlin
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
