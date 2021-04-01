@@ -29,6 +29,9 @@ url: "www.vault53.de" # the base hostname & protocol for your site, e.g. http://
 #twitter_username: 
 github_username:  explie
 
+# Google Analytics
+google_analytics: G-8HH0BTQZVV
+
 # Build settings
 theme: minima
 plugins:
