@@ -2,7 +2,8 @@
 layout: post
 title: "Ransomware Playbook sees daylight!"
 date: 2021-03-28 20:08:00 +0200
-categories: incident-response playbook update
+categories: incident-response playbooks
+tags: incident-response playbook update ransomware
 ---
 Hello everybody,
 
@@ -15,6 +16,7 @@ In the next days or weeks I will follow up with a short blog post about how to u
 As always I am very grateful for any advice, extension or general chatter about my work. Just leave me a mail or make a pull request or issue the corresponding repository on GitHub.
 
 Best Regards
+
 Tobias
 
 [dfir-playbooks-repo]: https://github.com/Explie/DFIR-Playbooks
