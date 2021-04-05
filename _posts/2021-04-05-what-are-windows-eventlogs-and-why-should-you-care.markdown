@@ -128,7 +128,7 @@ These would be found in the following logs:
 * Microsoft-Windows-WinRM Operational
 * Microsoft-Windows-WLAN-AutoConfig Operational.evtx
 
-> Many more information gets available when properly setting up eventlogs for forensic analysis.
+> Many more information gets available when properly setting up eventlogs for forensic analysis. Then these logs can be your best friend when tracking changes made to a windows system and investigating an attackers work. 
 
 <br />
 
